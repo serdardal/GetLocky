@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33b5e5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="cizgi">#949494</color>
+    <color name="arkaplan">#f1f1f1</color>
+    <color name="buton">#a4f2fd</color>
+    <color name="copyButton">#7affa2</color>
+</resources>
